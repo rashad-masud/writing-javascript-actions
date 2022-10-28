@@ -1,0 +1,7 @@
+name: "my joke action"
+
+decription: "Use an extenal API to retrieve and display a joke"
+
+runs:
+  using: "node12"
+  main: "main.js"  
